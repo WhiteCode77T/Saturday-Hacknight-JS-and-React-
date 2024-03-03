@@ -10,14 +10,20 @@ As in the name of the app itself,Mojo means motivational and short.Our fresh new
 1. Nobin Sijo
 2. Prashant
 3. Sankar Narayan
-## Link to product walkthrough
-[link to video](Link Here)
+
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. This app works on SDK 48 version.
+2. The QR code can be scanned by Expo Go 2.26.6(189) or Expo Go 2.26.6(191)
 ## Libraries used
 Library Name - Version
+Expo - 50.0.8
+NodeJs - 20.9.0
+npm - 10.2.4
+Typescript - 5.3.3
 ## How to configure
-Instructions for setting up project
+The source file for the app is in "test0" branch.
 ## How to Run
-Instructions for running
+The QR code can be scanned by Expo Go 2.26.6(189) or Expo Go 2.26.6(191).The Mojo app would be redirected and can be used.
+
+
+
