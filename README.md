@@ -29,8 +29,7 @@ Library Name - Version
 The source file for the app is in "test0" branch.
 ## How to Run
 The QR code can be scanned by Expo Go 2.26.6(189) or Expo Go 2.26.6(191).The Mojo app would be redirected and can be used.
-
-##Preview Video
+## Preview Video
 
 https://github.com/WhiteCode77T/Saturday-Hacknight-JS-and-React-/assets/78849206/7783d340-c085-43ac-aca5-ade8ea07ff6f
 
