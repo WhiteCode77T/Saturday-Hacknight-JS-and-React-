@@ -16,10 +16,10 @@ As in the name of the app itself,Mojo means motivational and short.Our fresh new
 2. The QR code can be scanned by Expo Go 2.26.6(189) or Expo Go 2.26.6(191)
 ## Libraries used
 Library Name - Version
-Expo - 50.0.8
-NodeJs - 20.9.0
-npm - 10.2.4
-Typescript - 5.3.3
+1.Expo - 50.0.8
+2.NodeJs - 20.9.0
+3.npm - 10.2.4
+4.Typescript - 5.3.3
 ## How to configure
 The source file for the app is in "test0" branch.
 ## How to Run
