@@ -10,9 +10,9 @@
 
 As in the name of the app itself,Mojo means motivational and short.Our fresh new UI is designed to keep you motivated and focused.  Get a clear view of your projects, celebrate milestones with a satisfying design.
 ## Team members
-1. Nobin Sijo
-2. Prasanth P
-3. Sankar Narayan
+1. <a href="https://www.linkedin.com/in/nobin-sijo-a22711291/">Nobin Sijo</a>
+2. <a href="https://bit.ly/prasanth__p_">Prasanth P</a>
+3. <a href="https://www.linkedin.com/in/sankar-narayan-s-502925291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Sankar Narayan<a>
 
 ## How it Works ?
 1. This app works on SDK 48 version.
