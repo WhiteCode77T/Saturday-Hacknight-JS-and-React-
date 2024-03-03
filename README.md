@@ -5,8 +5,8 @@
 
 
 # MOJO TASKS
+![designsemnome1](https://github.com/WhiteCode77T/Saturday-Hacknight-JS-and-React-/assets/143606368/ec000f72-4834-4806-9cb3-e189cc8f587a)
 
-(https://github.com/WhiteCode77T/Saturday-Hacknight-JS-and-React-/blob/main/designsemnome1.png)
 
 As in the name of the app itself,Mojo means motivational and short.Our fresh new UI is designed to keep you motivated and focused.  Get a clear view of your projects, celebrate milestones with a satisfying design.
 ## Team members
